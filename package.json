@@ -1,0 +1,38 @@
+{
+  "name": "reducemonoid",
+  "version": "0.1.1",
+  "description": "Reduce with an associative operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phadej/reducemonoid"
+  },
+  "keywords": [
+    "reduce",
+    "monoid",
+    "assiciative",
+    "binary",
+    "semigroup",
+    "fold"
+  ],
+  "author": "Oleg Grenrus <oleg.grenrus@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phadej/reducemonoid/issues"
+  },
+  "homepage": "https://github.com/phadej/reducemonoid",
+  "devDependencies": {
+    "benchmark": "^1.0.0",
+    "istanbul": "^0.3.2",
+    "jscs": "^1.6.1",
+    "jshint": "^2.5.5",
+    "jsverify": "^0.3.5",
+    "ljs": "^0.2.4",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.4",
+    "underscore": "^1.7.0"
+  }
+}
